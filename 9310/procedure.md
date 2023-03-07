@@ -29,3 +29,5 @@
 
 # misc setups, i3 rice
 1. Jay Taala https://confluence.jaytaala.com/display/B/#My+Manjaro+i3+setup#MyManjaroi3setup-Hibernate(suspendtodisk)
+2. Ubuntu Focal Fossa 20.04 Setup on XPS 13 9300 from jules-ch
+ https://github.com/jules-ch/Ubuntu20-Setup-XPS13
